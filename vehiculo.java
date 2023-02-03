@@ -8,5 +8,9 @@ public class vehiculo {
       this.matricula = matricula;
       
     }
+    public void mostraMarca() {
+      System.out.println(marca);
+     
+    }
   
   }
